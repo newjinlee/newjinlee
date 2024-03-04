@@ -25,7 +25,7 @@
 
 🌱 Currently learning Frontend 🌱
 <br>
-<im잇 Badge" src="https://img.shields.io/badge/Sprint.Codeit_track--5-cfff48?style=flat-square&logoColor=white">
+<img alt="코드잇 Badge" src="https://img.shields.io/badge/Sprint.Codeit_track--5-cfff48?style=flat-square&logoColor=white">
 
 
 🛠 Usable Language / Tool / Engine 🛠
