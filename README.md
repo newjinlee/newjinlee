@@ -48,11 +48,11 @@
 <a href="matilto:augustpacker@gmail.com"><img alt="Mail Link" src="https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white"></a>
 </div>
 
-<div>
+<div style=" text-align:justify ">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newjinlee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newjinlee&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newjinlee&theme=shadow_green&show_icons=true)
 
 </div>
+
 </body>
