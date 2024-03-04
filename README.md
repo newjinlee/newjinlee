@@ -3,20 +3,23 @@
   
 </header>
 <body>
-<h2>🌴NewjinLee🌴</h2>
-
-
+<h2 align="center">🌴NewjinLee🌴</h2>
+<div align="center">
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnewjinlee&count_bg=%2379C83D&title_bg=%23FFCCFF&icon=github.svg&icon_color=%23FFFFFF&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
 
+</div>
+<div>
+- 🔭 Currently working on Game Development <br>
+- 🌱 Currently learning Frontend <br>
+- 📫 How to reach me: <br>
+</div>
 
-- 🔭 Currently working on Game Development
-- 🌱 Currently learning Frontend
-- 📫 How to reach me: 
-
-
-
+<div>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newjinlee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newjinlee&theme=shadow_green&show_icons=true)
 
+</div>
 </body>
