@@ -4,19 +4,28 @@
 </header>
 <body>
 <h2 align="center">🌴NewjinLee🌴</h2>
+  
 <div align="center">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnewjinlee&count_bg=%2379C83D&title_bg=%23FFCCFF&icon=github.svg&icon_color=%23FFFFFF&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
-<div>
-- 🔭 Currently working on Game Development <br>
-- 🌱 Currently learning Frontend <br>
-- 📫 How to reach me:
-<a href="https://discordapp.com/users/818875477946007562"><img alt="Discord Link" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white&link=Discordapp.com%2Fusers%2F818875477946007562"></a>
-    
-<a href="https://www.instagram.com/oiofjin/"><img alt="Instagram Link" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Foiofjin%2F"></a>
 
+<div align="center">
+  
+🔭 Game Creator 🔭
+<br>
+<img alt="Unity Badge" src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity&logoColor=white">
+
+🌱 Currently learning Frontend 🌱
+<br>
+<img alt="VisualStudioCode Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
+
+📫 SNS 📫
+<br>
+<a href="https://discordapp.com/users/818875477946007562"><img alt="Discord Link" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white&link=Discordapp.com%2Fusers%2F818875477946007562"></a>
+<a href="https://www.instagram.com/oiofjin/"><img alt="Instagram Link" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Foiofjin%2F"></a>
+<a href="matilto:augustpacker@gmail.com"><img alt="Mail Link" src="https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white"></a>
 </div>
 
 <div>
