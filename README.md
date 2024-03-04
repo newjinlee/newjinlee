@@ -15,11 +15,30 @@
   
 🔭 Game Creator 🔭
 <br>
-<img alt="Unity Badge" src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity&logoColor=white">
+<a href="https://github.com/DongBangRun"><img alt="동방런 Badge" src="https://img.shields.io/badge/%EB%8F%99%EB%B0%A9%EB%9F%B0-blue?style=flat-square&logoColor=white"></a>
+<a href="https://github.com/SJU-Virtual-Reality/VR-project"><img alt="FreonFrenzy Badge" src="https://img.shields.io/badge/Freon--Frenzy-green?style=flat-square&logoColor=white"></a>
+<a href="https://github.com/SJU-Virtual-Reality/VR-project"><img alt="세종대탐험 Badge" src="https://img.shields.io/badge/%EC%84%B8%EC%A2%85%EB%8C%80%ED%83%90%ED%97%98-red?style=flat-square&logoColor=white"></a>
+
+🔭 Frontend Developer 🔭
+<br>
+<a href="https://github.com/Tekken-Supporter"><img alt="철권서포터 Badge" src="https://img.shields.io/badge/TEKKEN_Supporter-red?style=flat-square&logoColor=white"></a>
 
 🌱 Currently learning Frontend 🌱
 <br>
+<img alt="Static Badge" src="https://img.shields.io/badge/Sprint.Codeit-purple?style=flat-square&logoColor=white">
+
+🛠 Usable Language / Tool / Engine 🛠
+<br>
+<img alt="C++ Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+<img alt="C# Badge" src="https://img.shields.io/badge/C%23-%23512BD4?style=flat-square&logo=C%23&logoColor=white">
+<img alt="Python Badge" src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white">
+<br>
 <img alt="VisualStudioCode Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio-%235C2D91?style=flat-square&logo=visual%20studio&logoColor=white">
+<br>
+<img alt="Unity Badge" src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity&logoColor=white">
+<img alt="Unreal Badge" src="https://img.shields.io/badge/Unreal-%230E1128?style=flat-square&logo=unreal%20engine&logoColor=white">
+
 
 📫 SNS 📫
 <br>
