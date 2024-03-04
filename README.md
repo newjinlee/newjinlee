@@ -13,10 +13,10 @@
 - 🔭 Currently working on Game Development <br>
 - 🌱 Currently learning Frontend <br>
 - 📫 How to reach me:
-  <p>
-    <a href="https://discordapp.com/users/818875477946007562" target="_blank"><img src="https://img.shields.io/badge/Discord-8A2BE2?style=flat-square&logo=github&logocolor=white"> 
-    <a href="https://www.instagram.com/oiofjin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logocolor=white">
-  </p>
+<img alt="Discord Link" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white&link=Discordapp.com%2Fusers%2F818875477946007562">
+    
+<img alt="Instagram Link" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Foiofjin%2F">
+
 </div>
 
 <div>
