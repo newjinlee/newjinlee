@@ -37,7 +37,8 @@
 <img alt="js Badge" src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white">
 <br>
 <img alt="VisualStudioCode Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio-%235C2D91?style=flat-square&logo=visual%20studio&logoColor=white">
+<img alt="visualstudio Badge" src="https://img.shields.io/badge/Visual_Studio-%235C2D91?style=flat-square&logo=visual%20studio&logoColor=white">
+<img alt="blender Badge" src="https://img.shields.io/badge/Blender-%23E87D0D?style=flat-square&logo=blender&logoColor=white">
 <br>
 <img alt="Unity Badge" src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity&logoColor=white">
 <img alt="Unreal Badge" src="https://img.shields.io/badge/Unreal-%230E1128?style=flat-square&logo=unreal%20engine&logoColor=white">
