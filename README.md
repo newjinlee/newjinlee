@@ -32,10 +32,9 @@
 <br>
 <img alt="C++ Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=C%2B%2B&logoColor=white">
 <img alt="C# Badge" src="https://img.shields.io/badge/C%23-%23512BD4?style=flat-square&logo=C%23&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white">
-<img alt="Python Badge" src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white">
+<img alt="html Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white">
+<img alt="css Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white">
+<img alt="js Badge" src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white">
 <br>
 <img alt="VisualStudioCode Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio-%235C2D91?style=flat-square&logo=visual%20studio&logoColor=white">
