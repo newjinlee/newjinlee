@@ -22,6 +22,9 @@
 🔭 Frontend Developer 🔭
 <br>
 <a href="https://github.com/Tekken-Supporter"><img alt="철권서포터 Badge" src="https://img.shields.io/badge/TEKKEN_Supporter-red?style=flat-square&logoColor=white"></a>
+<a href="https://github.com/2team-project/OpenMind"><img alt="OpenMind Badge" src="https://img.shields.io/badge/Open_Mind-beige?style=flat-square&logoColor=white"></a>
+<a href="https://github.com/jose0229/the-julge"><img alt="The Julge Badge" src="https://img.shields.io/badge/The_Julge-orange?style=flat-square&logoColor=white"></a>
+
 
 🌱 Currently learning Frontend 🌱
 <br>
