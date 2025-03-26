@@ -50,7 +50,6 @@
 📫 SNS 📫
 <br>
 <a href="https://discordapp.com/users/818875477946007562"><img alt="Discord Link" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white&link=Discordapp.com%2Fusers%2F818875477946007562"></a>
-<a href="https://www.instagram.com/oiofjin/"><img alt="Instagram Link" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Foiofjin%2F"></a>
 <a href="matilto:augustpacker@gmail.com"><img alt="Mail Link" src="https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white"></a>
 </div>
 
