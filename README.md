@@ -4,6 +4,7 @@
 </header>
 <body>
 <h2 align="center">🌴NewjinLee🌴</h2>
+<p align="center">[서브 계정](https://github.com/nwjnlee)</p>
   
 <div align="center">
   
